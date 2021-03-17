@@ -1,16 +1,17 @@
 ---
-title: "About&Contact"
+title: "About"
 date: 2021-01-24
 ---
 
-# 关于`ShuffleShuffle｜随机掉落`
 **Shuffle Shuffle** **随机掉落** 是一档以青年生活归属感和体验为主题的播客节目。
 
-# 关于主播：
+---
+
+### 关于主播：
 李颜君，小披头，莫修
 
 
-# 节目收听：
+### 节目收听：
 你可以在下面的平台上收听我们的节目：
 - [Apple PodCast](https://podcasts.apple.com/cn/podcast/shuffleshuffle-%E9%9A%8F%E6%9C%BA%E6%8E%89%E8%90%BD/id1551443928)
 - [小宇宙](https://www.xiaoyuzhoufm.com/podcast/6014dc2656f8c08ac16a9c2b?s=eyJ1IjogIjYwMTRkY2ZmZTBmNWU3MjNiYjExYmQ5YyJ9)
@@ -22,8 +23,8 @@ date: 2021-01-24
 我们的最新资讯也会同步到节目的网站: https://www.shuffleshuffle.com 中。
 
 
-# 联系方式
+### 联系方式
 如果您对我们的节目有任何意见或建议（比如想让我们聊的话题），请发信至 <shuffleshuffle@126.com>，或者在节目的评论区告诉我们。
 
-# 成为赞助人
-尚未开通
+### Be A Sponsor
+暂未开通
