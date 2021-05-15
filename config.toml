@@ -44,3 +44,7 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/logo2.jpg"
   recent_posts_number = 5
+  [params.footer]
+    apple = "/images/apple.svg"
+    xiaoyuzhou =  "/images/xiaoyuzhou.png"
+    netease = "/images/netease.png"
